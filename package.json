@@ -26,6 +26,7 @@
 		"cryptography"
 	],
 	"main": "index.js",
+	"types": "index.d.ts",
 	"scripts": {
 		"test": "grunt travis --verbose"
 	},
