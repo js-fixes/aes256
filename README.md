@@ -1,6 +1,7 @@
 # aes256
 [![GitHub Latest Release](https://badge.fury.io/gh/JamesMGreene%2Fnode-aes256.svg)](https://github.com/JamesMGreene/node-aes256) [![Build Status](https://secure.travis-ci.org/JamesMGreene/node-aes256.svg?branch=master)](https://travis-ci.org/JamesMGreene/node-aes256) [![Coverage Status](https://coveralls.io/repos/JamesMGreene/node-aes256/badge.svg?branch=master&service=github)](https://coveralls.io/github/JamesMGreene/node-aes256?branch=master) [![Dependency Status](https://david-dm.org/JamesMGreene/node-aes256.svg?theme=shields.io)](https://david-dm.org/JamesMGreene/node-aes256) [![Dev Dependency Status](https://david-dm.org/JamesMGreene/node-aes256/dev-status.svg?theme=shields.io)](https://david-dm.org/JamesMGreene/node-aes256#info=devDependencies)
 
+> Updated fork of [node-aes256](https://github.com/JamesMGreene/node-aes256) with typescript definitions
 
 A Node.js module to simplify using the built-in `crypto` module for AES-256 encryption with random initialization vectors.
 
